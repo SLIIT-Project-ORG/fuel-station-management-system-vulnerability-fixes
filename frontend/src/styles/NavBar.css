@@ -1,0 +1,18 @@
+.navbar{
+
+    float: left;
+    background-color: rgb(72, 198, 193);
+   
+
+}
+.navbar > button:hover{
+    background-color: rgb(167, 194, 227);
+    
+}
+.navbar > button{
+    font-size: 18px;
+    font-style:normal;
+    background-color: rgb(72, 198, 193);
+    
+}
+
